@@ -70,7 +70,7 @@ function App() {
   'victoria': { name: 'Victoria', lat: 51.4952, lng: -0.1441 },
   'pimlico': { name: 'Pimlico', lat: 51.4893, lng: -0.1335 },
   'vauxhall': { name: 'Vauxhall', lat: 51.4861, lng: -0.1253 },
-  'stockwell': { name: 'Stockwell', lat: 51.4722, lng: -0.1229 },
+  
 };
 
     useEffect(() => {
